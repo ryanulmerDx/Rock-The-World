@@ -16,7 +16,7 @@ export default function Header() {
     <header className="fixed top-0 left-0 right-0 z-50 bg-brand-dark/90 backdrop-blur-sm border-b border-white/10">
       <nav className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
         <Link href="/" className="text-xl font-bold tracking-tight">
-          <span className="text-brand-red">RTW</span> Productions
+          <span className="text-brand-red">Rock The World</span> Productions
         </Link>
 
         {/* Desktop nav */}
